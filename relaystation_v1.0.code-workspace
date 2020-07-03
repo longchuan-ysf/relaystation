@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "/home/longchuan/linux/workspace/ysf/relaystation/relaystation_v1.0"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"module.h": "c",
+			"kernel.h": "c",
+			"cdev.h": "c",
+			"list.h": "c",
+			"tcpmodbus_m.h": "c",
+			"fifo.h": "c",
+			"tcpmessagehandle.h": "c",
+			"equipmentmanage.h": "c",
+			"tcpbackground.h": "c",
+			"com.h": "c",
+			"delay.h": "c",
+			"ide.h": "c",
+			"fun.h": "c",
+			"stat.h": "c",
+			"time.h": "c"
+		}
+	}
+}
