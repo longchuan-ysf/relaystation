@@ -214,6 +214,7 @@ int main(int argc, char **argv)
 		//每秒检测下系统连接情况然后通过蜂鸣器提示
 		connet_state_indicate();
 		Refrigertor_state_indicate();
+		zlog_scan_oldest();
 		sleep(1);
 	}
 	zlogdeinit();

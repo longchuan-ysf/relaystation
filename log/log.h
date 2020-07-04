@@ -5,7 +5,7 @@
 #include "zlog.h"
 
 
-int zloginit(void);
-void zlogdeinit(void);
-
+extern int zloginit(void);
+extern void zlogdeinit(void);
+extern void zlog_scan_oldest(void);
 #endif // !__LOG_H_
