@@ -4,6 +4,7 @@
 #include "TCPModbus.h"
 #include "Record.h"
 #include "log.h"
+//git 远程仓库地址 https://github.com/longchuan-ysf/relaystation.git
 int net_detect(char* net_name)
 {
 
